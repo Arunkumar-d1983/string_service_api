@@ -7,7 +7,7 @@ REST API to remove first and last characters from a string
 ``` git clone https://github.com/Arunkumar-d1983/string_service_api ```
 
 ``` git branch ```
-``` master ```
+``` master ``` 
 
 #### Prerequisites:
 
